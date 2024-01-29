@@ -11,7 +11,7 @@
 
     // Border
 
-    --border: 1px solid var(var(--color-dark));
+    --border: 1px solid var(--color-dark);
     --border-radius: 14px;
     --border-radius-small: 7px;
     --border-radius-large: 45px;
@@ -27,7 +27,7 @@
     // Grid
 
     --container-width: 1240px;
-    --container-padding-width: 20px;
+    --container-padding-x: 20px;
 
     --section-padding-y: 70px;
 
